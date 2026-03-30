@@ -17,4 +17,4 @@
 ###
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauanmascaro26&layout=compact)
 
-![Snake animation](https://github.com/kauanmascaro26/kauanmascaro26/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/kauanmascaro26/kauanmascaro26/blob/output/github-contribution-grid-snake-dark.svg)
