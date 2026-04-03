@@ -1,26 +1,29 @@
 
 # Hello World!
 
-Olá! 👋 Eu sou Kauan Mascaro
+👋 Olá! Eu sou Kauan Mascaro
 
-Sou Técnico Eletrônico e também formado como Técnico em Informática. Atualmente estou no último ano de Engenharia da Computação e sou apaixonado por desenvolvimento de software. Estou sempre em busca de me desenvolver profissionalmente e aplicar meus conhecimentos em projetos desafiadores.
+Sou Técnico Eletrônico e também formado como Técnico em Informática.
+Atualmente estou no último ano de Engenharia da Computação e sou apaixonado por desenvolvimento de software.
+Estou sempre em busca de me desenvolver profissionalmente e aplicar meus conhecimentos em projetos desafiadores.
 
-💡 Minha missão: Unir experiência prática em eletrônica e TI com habilidades em software para criar soluções inovadoras e funcionais.
+💡 Minha missão:
+Unir experiência prática em eletrônica e TI com habilidades em software para criar soluções inovadoras e funcionais.
 
 💻 Tecnologias & Ferramentas
 
 Algumas das minhas habilidades e tecnologias que utilizo e estudo constantemente:
 
-Linguagens de programação: Python, JavaScript, C/C++ ␣␣
-Web & Mobile: HTML, CSS, React, Node.js␣␣
+Linguagens de programação: Python, JavaScript, C/C++
+Web & Mobile: HTML, CSS, React, Node.js
 Banco de dados: MySQL, SQLite
 Outros: Git, GitHub, Django, APIs
 Eletrônica e TI: Manutenção de hardware, sistemas embarcados, automação
-
 🚀 Experiência & Projetos
 Atuação como Técnico Eletrônico, com foco em manutenção, projetos e suporte técnico.
 Desenvolvimento de aplicativos e sistemas, incluindo projetos acadêmicos e pessoais.
 Integração de IA e processamento de dados em projetos de software.
+
 (Confira mais projetos nos meus repositórios!)
 
 🎯 Objetivos
