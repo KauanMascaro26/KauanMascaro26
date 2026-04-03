@@ -11,8 +11,8 @@ Sou Técnico Eletrônico e também formado como Técnico em Informática. Atualm
 
 Algumas das minhas habilidades e tecnologias que utilizo e estudo constantemente:
 
-Linguagens de programação: Python, JavaScript, C/C++
-Web & Mobile: HTML, CSS, React, Node.js
+Linguagens de programação: Python, JavaScript, C/C++ ␣␣
+Web & Mobile: HTML, CSS, React, Node.js␣␣
 Banco de dados: MySQL, SQLite
 Outros: Git, GitHub, Django, APIs
 Eletrônica e TI: Manutenção de hardware, sistemas embarcados, automação
