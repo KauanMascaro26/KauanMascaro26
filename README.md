@@ -12,32 +12,24 @@ Sou Técnico Eletrônico e também formado como Técnico em Informática. Atualm
 Algumas das minhas habilidades e tecnologias que utilizo e estudo constantemente:
 
 Linguagens de programação: Python, JavaScript, C/C++
-
 Web & Mobile: HTML, CSS, React, Node.js
-
 Banco de dados: MySQL, SQLite
-
 Outros: Git, GitHub, Django, APIs
-
 Eletrônica e TI: Manutenção de hardware, sistemas embarcados, automação
 
 🚀 Experiência & Projetos
 Atuação como Técnico Eletrônico, com foco em manutenção, projetos e suporte técnico.
-
 Desenvolvimento de aplicativos e sistemas, incluindo projetos acadêmicos e pessoais.
-
 Integração de IA e processamento de dados em projetos de software.
-
 (Confira mais projetos nos meus repositórios!)
 
 🎯 Objetivos
 Atuar como desenvolvedor de software e expandir meus conhecimentos em tecnologia.
 Aplicar habilidades técnicas de eletrônica e TI em projetos de software inovadores.
 Contribuir com projetos de código aberto e crescer na comunidade tech.
-Welcome to my 
+
  <br> [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mascarokauan/) [![Instagram](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nauaK26) [![Instagram](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Z4MqQgCD) [![Instagram](    https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauan-vazelli-mascaro-023867238/) [![Instagram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kauanmascaro)
 
-## Linguagens predominantes
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
