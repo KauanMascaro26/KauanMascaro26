@@ -34,19 +34,6 @@ Contribute to open-source projects and grow within the tech community.
 
 
 ## 🛠️ Tech Stack
-<img src="https://cdn.jsdelivr.net/npm/devicon/icons/python/python-original.svg" width="40" alt="Python" />
-<img src="https://cdn.jsdelivr.net/npm/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
-<img src="https://cdn.jsdelivr.net/npm/devicon/icons/c/c-original.svg" width="40" alt="C" />
-<img src="https://cdn.jsdelivr.net/npm/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++" />    
-<img src="https://cdn.jsdelivr.net/npm/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5" />
-<img src="https://cdn.jsdelivr.net/npm/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3" />
-<img src="https://cdn.jsdelivr.net/npm/devicon/icons/react/react-original.svg" width="40" alt="React" />
-<img src="https://cdn.jsdelivr.net/npm/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" />
-<img src="https://cdn.jsdelivr.net/npm/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" />
-<img src="https://cdn.jsdelivr.net/npm/devicon/icons/sqlite/sqlite-original.svg" width="40" alt="SQLite" />
-<img src="https://cdn.jsdelivr.net/npm/devicon/icons/git/git-original.svg" width="40" alt="Git" />
-<img src="https://cdn.jsdelivr.net/npm/devicon/icons/django/django-original.svg" width="40" alt="Django" />
-<img src="https://cdn.jsdelivr.net/npm/devicon/icons/linux/linux-original.svg" width="40" alt="Sistemas Embarcados / Linux" />
-<img src="https://cdn.jsdelivr.net/npm/devicon/icons/arduino/arduino-original.svg" width="40" alt="Automação / Arduino" />
+<img src="https://cdn.jsdelivr.net/npm/devicon/icons/python/python-original.svg" width="40" alt="Python" /><img src="https://cdn.jsdelivr.net/npm/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" /><img src="https://cdn.jsdelivr.net/npm/devicon/icons/c/c-original.svg" width="40" alt="C" /><img src="https://cdn.jsdelivr.net/npm/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++" />    <img src="https://cdn.jsdelivr.net/npm/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5" /><img src="https://cdn.jsdelivr.net/npm/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3" /><img src="https://cdn.jsdelivr.net/npm/devicon/icons/react/react-original.svg" width="40" alt="React" /><img src="https://cdn.jsdelivr.net/npm/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" /><img src="https://cdn.jsdelivr.net/npm/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" /><img src="https://cdn.jsdelivr.net/npm/devicon/icons/sqlite/sqlite-original.svg" width="40" alt="SQLite" /><img src="https://cdn.jsdelivr.net/npm/devicon/icons/git/git-original.svg" width="40" alt="Git" /><img src="https://cdn.jsdelivr.net/npm/devicon/icons/django/django-original.svg" width="40" alt="Django" /><img src="https://cdn.jsdelivr.net/npm/devicon/icons/linux/linux-original.svg" width="40" alt="Sistemas Embarcados / Linux" /><img src="https://cdn.jsdelivr.net/npm/devicon/icons/arduino/arduino-original.svg" width="40" alt="Automação / Arduino" />
 
 ![Snake animation](https://github.com/kauanmascaro26/kauanmascaro26/blob/output/github-contribution-grid-snake-dark.svg)
