@@ -23,6 +23,7 @@ _(Check out more projects in my repositories!)_
 
 ## 🎯 Objectives
 
+
 Work as a software developer and expand my knowledge in technology.  
 Apply technical skills in electronics and IT to innovative software projects.  
 Contribute to open-source projects and grow within the tech community.
