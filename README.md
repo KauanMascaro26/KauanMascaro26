@@ -5,7 +5,7 @@ Computer Engineering student and Full Stack Developer Assistant, with a backgrou
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,dart,flutter,js,react,nodejs,fastapi,django,postgres,docker,aws,firebase,supabase,java,spring,kotlin,mysql,sqlite,git,linux,cpp&perline=25&theme=dark" alt="Tech stack icons: Python, Dart, Flutter, JavaScript, React, Node.js, FastAPI, Django, PostgreSQL, Docker, AWS, Firebase, Supabase, Java, Spring Boot, Kotlin, MySQL, SQLite, Git, Linux and C++" />
+  <img src="https://skillicons.dev/icons?i=python,dart,flutter,js,ts,react,nodejs,fastapi,django,postgres,docker,aws,firebase,supabase,java,spring,kotlin,mysql,sqlite,git,linux,cpp,tensorflow,opencv&perline=25&theme=dark" alt="Tech stack icons: Python, Dart, Flutter, JavaScript, TypeScript, React, Node.js, FastAPI, Django, PostgreSQL, Docker, AWS, Firebase, Supabase, Java, Spring Boot, Kotlin, MySQL, SQLite, Git, Linux, C++, TensorFlow and OpenCV" />
 </p>
 
 ## 📊 GitHub Stats
