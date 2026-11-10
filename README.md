@@ -1,38 +1,43 @@
+# Hey, I'm Kauan Mascaro 👋
 
-# 👋 Hi, I'm Kauan Mascaro
+Computer Engineering student and Full Stack Developer Assistant, with a background in IT and electronics. I enjoy building software, exploring new technologies, and turning ideas into practical projects.
 
--  **Electronics Technician with a degree in IT**
+## 🧰 Tech Stack
 
-- **Computer Engineering student in the final year**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![C/C++](https://img.shields.io/badge/C%2FC++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-## 💻 Technologies and Tools
+## 📊 GitHub Stats
 
-- **Programming Languages:** Python, JavaScript, C/C++  
-- **Web & Mobile:** HTML, CSS, React, Node.js  
-- **Databases:** MySQL, SQLite  
-- **Others:** Git, GitHub, Django, APIs  
-- **Electronics & IT:** Hardware maintenance, embedded systems, automation
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KauanMascaro26&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauanMascaro26&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages" />
+</p>
 
-## 🚀 Experience & Projects
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=KauanMascaro26&theme=tokyonight&hide_border=true" alt="Contribution streak" />
+</p>
 
-Worked as an Electronics Technician, focusing on maintenance, projects, and technical support.  
-Development of applications and systems, including academic and personal projects.  
-Integration of AI and data processing in software projects.  
-_(Check out more projects in my repositories!)_
+## 🐍 Contribution Snake
 
-## 🎯 Objectives
+<p align="center">
+  <img src="https://github.com/KauanMascaro26/KauanMascaro26/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
+</p>
 
+## 🔗 Connect with me
 
-Work as a software developer and expand my knowledge in technology.  
-Apply technical skills in electronics and IT to innovative software projects.  
-Contribute to open-source projects and grow within the tech community.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauan-vazelli-mascaro-023867238/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/mascarokauan/)
 
-## 🌐 Where to find me
+---
 
- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mascarokauan/)[![Linkedin](   https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauan-vazelli-mascaro-023867238/)
-
-
-## 🛠️ Tech Stack
-<img src="https://cdn.jsdelivr.net/npm/devicon/icons/python/python-original.svg" width="40" alt="Python" /><img src="https://cdn.jsdelivr.net/npm/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" /><img src="https://cdn.jsdelivr.net/npm/devicon/icons/c/c-original.svg" width="40" alt="C" /><img src="https://cdn.jsdelivr.net/npm/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++" />    <img src="https://cdn.jsdelivr.net/npm/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5" /><img src="https://cdn.jsdelivr.net/npm/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3" /><img src="https://cdn.jsdelivr.net/npm/devicon/icons/react/react-original.svg" width="40" alt="React" /><img src="https://cdn.jsdelivr.net/npm/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" /><img src="https://cdn.jsdelivr.net/npm/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" /><img src="https://cdn.jsdelivr.net/npm/devicon/icons/sqlite/sqlite-original.svg" width="40" alt="SQLite" /><img src="https://cdn.jsdelivr.net/npm/devicon/icons/git/git-original.svg" width="40" alt="Git" /><img src="https://cdn.jsdelivr.net/npm/devicon/icons/django/django-original.svg" width="40" alt="Django" /><img src="https://cdn.jsdelivr.net/npm/devicon/icons/linux/linux-original.svg" width="40" alt="Sistemas Embarcados / Linux" /><img src="https://cdn.jsdelivr.net/npm/devicon/icons/arduino/arduino-original.svg" width="40" alt="Automação / Arduino" />
-
-![Snake animation](https://github.com/kauanmascaro26/kauanmascaro26/blob/output/github-contribution-grid-snake-dark.svg)
+<p align="center"><i>Always learning, building, and improving.</i></p>
